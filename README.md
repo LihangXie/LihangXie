@@ -1,10 +1,11 @@
+
 <h1 align="center">Hi 👋, I'm Lihang Xie</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Future+Algorithm+Engineer;Loves+Tech+%26+Learning&center=true&width=500&height=50">
 </p>
 
 - 🔭 I’m currently studying **Computer Science**  
-- 🌱 I’m interested in **AI, algorithms, and web development**  
+- 🌱 I’m interested in **LLM and web development**  
 - 💬 Ask me about **algorithm competitions, Python, and Golang**  
 - 📫 How to reach me: [xielihang@gmail.com](mailto:xielihang@gmail.com)  
 ---
