@@ -18,7 +18,12 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ---
+## 🔥 GitHub Streak
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LihangXie&theme=tokyonight&hide_border=false" />
+</div>
+---
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -36,8 +41,4 @@
 
 ---
 
-## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/你的名字)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/你的ID)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube)](https://youtube.com/@你的频道)
