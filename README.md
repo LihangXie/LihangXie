@@ -1,4 +1,43 @@
+<h1 align="center">Hi 👋, I'm Lihang Xie</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Future+Algorithm+Engineer;Loves+Tech+%26+Learning&center=true&width=500&height=50">
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LihangXie)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LihangXie)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center"> <img src="https://metrics.lecoq.io/LihangXie?template=classic&config.timezone=Asia%2FShanghai"> </div>
+- 🔭 I’m currently studying **Computer Science**  
+- 🌱 I’m interested in **AI, algorithms, and system development**  
+- 💬 Ask me about **algorithm competitions, Python, and Golang**  
+- 📫 How to reach me: [xielihang@gmail.com](mailto:xielihang@gmail.com)  
+---
+
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LihangXie&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LihangXie&theme=tokyonight" width="450"/>
+</p>
+
+---
+
+## 📌 Top Projects
+
+- [Project 1 - PINNs for Fluid Simulation](https://github.com/LihangXie/project-pinn-fluid)
+- [Project 2 - Contrastive Learning 3D Object Detection](https://github.com/LihangXie/coin-3d-det)
+- [Project 3 - Algorithm Competition Templates](https://github.com/LihangXie/acm-template)
+
+---
+
+## 🌐 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/你的名字)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/你的ID)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube)](https://youtube.com/@你的频道)
