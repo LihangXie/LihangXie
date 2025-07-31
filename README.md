@@ -21,7 +21,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LihangXie&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LihangXie&show_icons=true&theme=flag-india" width="450"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LihangXie&theme=default" width="450"/>
 </p>
 
