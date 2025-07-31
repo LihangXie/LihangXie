@@ -4,7 +4,7 @@
 </p>
 
 - 🔭 I’m currently studying **Computer Science**  
-- 🌱 I’m interested in **AI, algorithms, and system development**  
+- 🌱 I’m interested in **AI, algorithms, and web development**  
 - 💬 Ask me about **algorithm competitions, Python, and Golang**  
 - 📫 How to reach me: [xielihang@gmail.com](mailto:xielihang@gmail.com)  
 ---
