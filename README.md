@@ -21,8 +21,9 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LihangXie&theme=rust-ferris-light&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LihangXie&theme=default&hide_border=false" />
 </div>
+
 ---
 ## 📈 GitHub Stats
 
