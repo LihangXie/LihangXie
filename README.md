@@ -13,6 +13,5 @@ Python · C++ · FastAPI
 
 ## Projects
 
-- [life-simulator](https://github.com/LihangXie/life-simulator) - A simple Python project
 
 ---
