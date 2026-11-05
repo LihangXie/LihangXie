@@ -10,8 +10,3 @@
 Python · C++ · FastAPI
 
 ---
-
-## Projects
-
-
----
